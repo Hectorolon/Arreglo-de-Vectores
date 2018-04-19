@@ -1,0 +1,10 @@
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\bin\Debug\EstructuradeArreglo.exe.config
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\bin\Debug\EstructuradeArreglo.exe
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\bin\Debug\EstructuradeArreglo.pdb
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.csprojResolveAssemblyReference.cache
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.Form1.resources
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.Properties.Resources.resources
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.csproj.GenerateResource.Cache
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.csproj.CoreCompileInputs.cache
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.exe
+c:\users\hrolo\source\repos\EstructuradeArreglo\EstructuradeArreglo\obj\Debug\EstructuradeArreglo.pdb
